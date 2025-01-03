@@ -184,6 +184,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Made with ❤️ by [Aryan Acharya](https://github.com/aryan1112003)
 
+![image](https://github.com/user-attachments/assets/eee6de79-fcba-4959-b3be-4ebc09fa5c34)
+
+
 <p align="center">
   <a href="https://earnest-tartufo-fba144.netlify.app/">Live Demo</a> •
   <a href="https://github.com/aryan1112003">GitHub</a> •
